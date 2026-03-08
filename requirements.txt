@@ -1,0 +1,22 @@
+Research Paper Recommendation System
+
+Technologies:
+- Python
+- TensorFlow
+- Streamlit
+- NLP
+- torch
+- sentence-transformers
+- numpy
+- requests
+- pickle-mixin
+- all mini lm (LLM model)
+
+Features:
+- Research paper recommendation
+- Subject area prediction
+
+How to run:
+1. pip install -r requirements.txt
+2. streamlit run app.pystreamlit
+
